@@ -1,4 +1,4 @@
-✈️ ##LineLeap##
+✈️ LineLeap
 
 This is a React Native (Expo) application designed to optimize airport security foot traffic. It allows passengers to pre-book a time slot for their TSA security check, reducing queue times and improving the overall airport experience.
 
