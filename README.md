@@ -1,4 +1,4 @@
-✈️ LineLeap
+✈️ ##LineLeap##
 
 This is a React Native (Expo) application designed to optimize airport security foot traffic. It allows passengers to pre-book a time slot for their TSA security check, reducing queue times and improving the overall airport experience.
 
@@ -93,7 +93,7 @@ Paste your config into the file, like so:
 
 // File: firebaseConfig.js
 import { initializeApp } from "firebase/app";
-import { getFirestore } from 'firebase/firestore';
+import { getFirestore } in 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
